@@ -1,0 +1,52 @@
+[
+  {
+    "class_name": "airplane",
+    "training": 4503,
+    "validation": 497
+  },
+  {
+    "class_name": "automobile",
+    "training": 4514,
+    "validation": 486
+  },
+  {
+    "class_name": "bird",
+    "training": 4490,
+    "validation": 510
+  },
+  {
+    "class_name": "cat",
+    "training": 4522,
+    "validation": 478
+  },
+  {
+    "class_name": "deer",
+    "training": 4481,
+    "validation": 519
+  },
+  {
+    "class_name": "dog",
+    "training": 4506,
+    "validation": 494
+  },
+  {
+    "class_name": "frog",
+    "training": 4519,
+    "validation": 481
+  },
+  {
+    "class_name": "horse",
+    "training": 4482,
+    "validation": 518
+  },
+  {
+    "class_name": "ship",
+    "training": 4506,
+    "validation": 494
+  },
+  {
+    "class_name": "truck",
+    "training": 4477,
+    "validation": 523
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "variant": "combined",
+  "epochs": 30,
+  "seed": 44,
+  "batch_size": 64,
+  "smoke": false,
+  "pilot": false,
+  "resume": true,
+  "evaluate": true,
+  "threads": 2,
+  "device": "cpu",
+  "torch": "2.14.1+cpu",
+  "python": "3.15.2",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "gpu": null,
+  "parameters": 94986,
+  "split_seed": 2026,
+  "normalization": "fixed mean=std=0.5",
+  "protocol_version": 2
+}

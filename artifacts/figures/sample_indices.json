@@ -1,0 +1,126 @@
+{
+  "selection_seed": 2026,
+  "source": "official training set, project training split only",
+  "selected": [
+    {
+      "class_id": 0,
+      "train_index": 16115,
+      "row": 0,
+      "column": 0
+    },
+    {
+      "class_id": 0,
+      "train_index": 43610,
+      "row": 1,
+      "column": 0
+    },
+    {
+      "class_id": 1,
+      "train_index": 12389,
+      "row": 0,
+      "column": 1
+    },
+    {
+      "class_id": 1,
+      "train_index": 15172,
+      "row": 1,
+      "column": 1
+    },
+    {
+      "class_id": 2,
+      "train_index": 4518,
+      "row": 0,
+      "column": 2
+    },
+    {
+      "class_id": 2,
+      "train_index": 30669,
+      "row": 1,
+      "column": 2
+    },
+    {
+      "class_id": 3,
+      "train_index": 30170,
+      "row": 0,
+      "column": 3
+    },
+    {
+      "class_id": 3,
+      "train_index": 13862,
+      "row": 1,
+      "column": 3
+    },
+    {
+      "class_id": 4,
+      "train_index": 21626,
+      "row": 0,
+      "column": 4
+    },
+    {
+      "class_id": 4,
+      "train_index": 31609,
+      "row": 1,
+      "column": 4
+    },
+    {
+      "class_id": 5,
+      "train_index": 36235,
+      "row": 2,
+      "column": 0
+    },
+    {
+      "class_id": 5,
+      "train_index": 26914,
+      "row": 3,
+      "column": 0
+    },
+    {
+      "class_id": 6,
+      "train_index": 18426,
+      "row": 2,
+      "column": 1
+    },
+    {
+      "class_id": 6,
+      "train_index": 45878,
+      "row": 3,
+      "column": 1
+    },
+    {
+      "class_id": 7,
+      "train_index": 9331,
+      "row": 2,
+      "column": 2
+    },
+    {
+      "class_id": 7,
+      "train_index": 133,
+      "row": 3,
+      "column": 2
+    },
+    {
+      "class_id": 8,
+      "train_index": 31125,
+      "row": 2,
+      "column": 3
+    },
+    {
+      "class_id": 8,
+      "train_index": 10876,
+      "row": 3,
+      "column": 3
+    },
+    {
+      "class_id": 9,
+      "train_index": 15373,
+      "row": 2,
+      "column": 4
+    },
+    {
+      "class_id": 9,
+      "train_index": 38873,
+      "row": 3,
+      "column": 4
+    }
+  ]
+}
