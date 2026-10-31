@@ -1,0 +1,8 @@
+# Preserve archived log/checksum bytes across Windows and Unix checkouts.
+* -text
+*.py -text diff
+*.md -text diff
+*.bib -text diff
+*.json -text diff
+*.csv -text diff
+*.txt -text diff
