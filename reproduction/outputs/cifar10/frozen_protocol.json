@@ -1,0 +1,20 @@
+{
+  "epochs": 30,
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "variants": [
+    "baseline",
+    "augment",
+    "regularized",
+    "combined"
+  ],
+  "train_sha256": "4394c03d9159b6d5797ab76f9d5fbee71fa4271e8202db44be093134e29aa51d",
+  "batch_size": 64,
+  "threads": 2,
+  "device": "cpu",
+  "split_seed": 2026,
+  "rationale": "30 epochs retained before formal testing; four timing pilots estimate 9.07 hours plus overhead."
+}
